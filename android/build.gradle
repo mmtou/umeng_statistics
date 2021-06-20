@@ -5,7 +5,7 @@ buildscript {
     repositories {
         google()
         jcenter()
-        maven { url 'https://dl.bintray.com/umsdk/release' }
+        maven { url 'https://mvnrepository.com/artifact' }
     }
 
     dependencies {
@@ -17,7 +17,7 @@ rootProject.allprojects {
     repositories {
         google()
         jcenter()
-        maven { url 'https://dl.bintray.com/umsdk/release' }
+        maven { url 'https://mvnrepository.com/artifact' }
     }
 }
 
